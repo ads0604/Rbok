@@ -1,0 +1,48 @@
+legend {
+    width:initial;
+    min-width:initial;
+    margin-bottom:initial;
+}
+
+fieldset {
+    border: dotted;
+    padding: 20px;
+}
+
+a {
+    color: #000000;
+    text-decoration-line: none !important;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+.input-group {
+    margin-top: 10px;
+}
+
+.group-btn {
+    margin-left:5px;
+}
+
+.search-container {
+    position: relative;
+}
+.search-button {
+    position: absolute;
+    top: -2.5rem; /* Adjust this value to change the button position */
+    right: 0;
+}
+
+.pagination {
+    margin-top: 20px;
+    justify-content: center;
+}
+
+#modal-content span {
+    display: block;
+    margin: 10px;
+    border: solid 1px gray;
+    padding: 10px;
+}
